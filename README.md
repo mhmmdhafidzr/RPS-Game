@@ -432,7 +432,7 @@ scope.google.colab._files = {
 
 
     
-![png](rock.png)
+![png](rock_test.png)
     
 
 
