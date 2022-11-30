@@ -1,0 +1,22 @@
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+</style>
+</head>
+<body>
+
+<h1 style="color: #2b2301;"> Rock Paper Scissors Game: Machine Learning Project</h1>
+<h2 style="color: #2e6c80;">Requirements:</h2>
+<p>
+<ul>Python 3</ul>
+<ul>TensorFlow</ul>
+<ul>Keras</ul>
+<ul>OpenCV</ul></p>
+<h4>  Video demonstration:
+</h4>
+<p align="center"><iframe width="420" height="315"
+src="https://www.youtube.com/embed/-5XE2b0ba9M">
+</iframe></p>
+  
+Check the code <p><a href="https://github.com/mhmmdhafidzr/RPS-Game">here!</a></p>
