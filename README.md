@@ -4,6 +4,7 @@ Machine Learning Project for Rock Paper Scissors
 
 **BIG THANKS TO:** [SouravJohar](https://github.com/SouravJohar) for the GUI and Gathering Images code!
 
+**You can check the video demonstration [here](https://www.youtube.com/watch?v=-5XE2b0ba9M)**
 
 # Create and train the model
 Prepare the environment
